@@ -1,0 +1,18 @@
+* Poster based on the work from [[Pitfalls in L1 GRN inference]]
+
+** Dependencies
+
+- tikzposter package for latex ::
+  In Ubuntu this can be picked up by doing
+  #+begin_src sh
+    apt-get install texlive-pictures
+  #+end_src
+
+- my texmk stile file [[https://raw.githubusercontent.com/Xparx/texmf/master/tex/latex/easySymbols/easySymbols.sty][easySymbols]]
+
+** Sources
+[[https://bitbucket.org/surmann/tikzposter/wiki/Home][tikzposter @ bitbucket]]
+
+[[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter][tikzposter @ ctan]]
+
+[[http://www.inf.unibz.it/~ebotoeva/fancytikzposter.html][fancytikzposter (deprecated)]]
