@@ -11,6 +11,8 @@
 - my texmk stile file [[https://raw.githubusercontent.com/Xparx/texmf/master/tex/latex/easySymbols/easySymbols.sty][easySymbols]]
 
 ** Sources
+[[http://get-software.net/graphics/pgf/contrib/tikzposter/tikzposter.pdf][Documentation]]
+
 [[https://bitbucket.org/surmann/tikzposter/wiki/Home][tikzposter @ bitbucket]]
 
 [[http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter][tikzposter @ ctan]]
